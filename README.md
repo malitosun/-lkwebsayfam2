@@ -1,2 +1,2 @@
-# -lkwebsayfam2
+# ilkwebsayfam2
 Ödev 2 Kişisel Sayfamızı Detaylandırmaya Devam Etmek
